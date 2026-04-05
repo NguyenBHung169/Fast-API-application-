@@ -3,9 +3,9 @@ Building basic Web using Fast API from Hugging Face
 # Fast-API-application-
 
 ## 1. Thông tin sinh viên
-- Họ và tên: ...
-- MSSV: ...
-- Lớp: ...
+- Họ và tên:Nguyễn Bảo Hưng
+- MSSV: 24120057
+- Lớp: 24CTT5
 - Môn học: Tư Duy Tính Toán
 - Trường: Trường Đại học Khoa Học Tự Nhiên TP.HCM
 - Khoa: Công Nghệ Thông Tin
@@ -106,4 +106,4 @@ Fast-API-application-/
 │   └── main.py
 │── requirements.txt
 │── test_api.py
-│── README.md hãy gom lại đống này vào 1 file text để tôi copy và paste vào file readme 
+│── README.md 
